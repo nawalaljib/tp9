@@ -112,7 +112,7 @@
     </plugins>
   </reporting>
   <scm>
-    <connection>scm:git:https://github.com/nawalaljib/tp9.git</connection>
+    <connection>scm:git:file:///C:/Users/DELL/Documents/tp9</connection>
   </scm>
 
 </project>
